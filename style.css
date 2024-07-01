@@ -1,0 +1,10 @@
+body{
+  background-color: turquoise;
+  color: black;
+  text-align: center;
+  border-radius: 2rem;
+}
+
+button{
+   background-color: cornflowerblue;
+}
